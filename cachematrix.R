@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Create a "special" marix object that can cache its
+## inverse, as the inverse is stored in the cache the  
+## inverse only needs to be calculated once.
 
 ## The makeCacheMatrix function creates a special matrix that can cache its inverse
 
